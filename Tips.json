@@ -1,14 +1,12 @@
 [
-  {
-    "id": "1",
-    "title": "Attachment Theory",
-    "url": "https://www.simplypsychology.org/attachment.html",
-    "description": "A short guide on attachment styles."
-  },
-  {
-    "id": "2",
-    "title": "Conflict Resolution Tips",
-    "url": "https://oscr.umich.edu/article/tips-and-tools-constructive-conflict-resolution",
-    "description": "How to manage conflict in a healthy way."
-  }
+	{
+		"id": 1,
+		"title": "The 5 to 1 Ratio",
+		"body": "Healthy relationships thrive when positive interactions outweigh negative ones."
+	},
+	{
+		"id": 2,
+		"title": "Small check-ins",
+		"body": "Ask how they are in simple ways instead of waiting for big talks."
+	}
 ]
