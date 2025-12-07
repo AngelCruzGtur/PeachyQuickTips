@@ -1,12 +1,14 @@
-{
+[
+  {
     "id": "1",
     "title": "Attachment Theory",
     "url": "https://www.simplypsychology.org/attachment.html",
     "description": "A short guide on attachment styles."
-},
-{
+  },
+  {
     "id": "2",
     "title": "Conflict Resolution Tips",
     "url": "https://oscr.umich.edu/article/tips-and-tools-constructive-conflict-resolution",
     "description": "How to manage conflict in a healthy way."
-}
+  }
+]
