@@ -1,5 +1,12 @@
-{
-  "id": 1,
-  "title": "Small check ins",
-  "body": "Ask how they are in simple ways instead of waiting for big talks."
-}
+[
+	{
+		"id": 1,
+		"title": "The 5 to 1 Ratio",
+		"body": "Healthy relationships thrive when positive interactions outweigh negative ones."
+	},
+	{
+		"id": 2,
+		"title": "Small check-ins",
+		"body": "Ask how they are in simple ways instead of waiting for big talks."
+	}
+]
