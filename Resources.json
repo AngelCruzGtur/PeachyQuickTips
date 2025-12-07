@@ -1,14 +1,18 @@
-[
-  {
-    "id": "E3C2F0D9-DF34-4C6D-9A49-4F17A4972B28",
-    "title": "Attachment Theory",
-    "url": "https://www.simplypsychology.org/attachment.html",
-    "description": "A short guide on attachment styles."
-  },
-  {
-    "id": "DAFF16F4-9190-4F7C-98E9-1E5EF45D08FD",
-    "title": "Conflict Resolution Tips",
-    "url": "https://oscr.umich.edu/article/tips-and-tools-constructive-conflict-resolution",
-    "description": "How to manage conflict in a healthy way."
-  }
-]
+{
+  "pageTitle": "Resources",
+  "subtitle": "Helpful things to read or watch",
+  "items": [
+    {
+      "id": "E3C2F0D9-DF34-4C6D-9A49-4F17A4972B28",
+      "title": "Attachment Theory",
+      "url": "https://www.simplypsychology.org/attachment.html",
+      "description": "A short guide on attachment styles."
+    },
+    {
+      "id": "DAFF16F4-9190-4F7C-98E9-1E5EF45D08FD",
+      "title": "Conflict Resolution Tips",
+      "url": "https://oscr.umich.edu/article/tips-and-tools-constructive-conflict-resolution",
+      "description": "How to manage conflict in a healthy way."
+    }
+  ]
+}
