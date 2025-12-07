@@ -1,12 +1,8 @@
 [
-	{
-		"id": 1,
-		"title": "The 5 to 1 Ratio",
-		"body": "Healthy relationships thrive when positive interactions outweigh negative ones."
-	},
-	{
-		"id": 2,
-		"title": "Small check-ins",
-		"body": "Ask how they are in simple ways instead of waiting for big talks."
-	}
+  {
+    "id": "E3C2F0D9-DF34-4C6D-9A49-4F17A4972B28",
+    "title": "Attachment Theory",
+    "url": "https://www.simplypsychology.org/attachment.html",
+    "description": "A short guide on attachment styles."
+  }
 ]
